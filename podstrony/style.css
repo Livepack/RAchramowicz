@@ -54,8 +54,8 @@ aside nav ul li a {
 
 aside nav ul li a:hover{
   
-  color: red;
-  background:green;
+  color:#2F4F4F;
+  background:#7FFFD4;
 }
 
 #main {
