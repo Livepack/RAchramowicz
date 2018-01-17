@@ -50,6 +50,7 @@ aside nav ul li a {
 
   color:black;
   background:grey;
+  selektor { justify-content: center }
 }
 
 aside nav ul li a:hover{
@@ -75,7 +76,7 @@ footer {
   background:yellow;
 }
 table, th, td{
-  border: 1px solid black;
+  border: 1px solid red;
   text-align: center;
 }
 img {
